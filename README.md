@@ -1,6 +1,4 @@
 #Portfolio
-This will take everyone back to the good old days, the 90s. I wanted to create something using the pokeapi.co API, so I made a game to test your Pokemon knowledge. Chose your favorite generation, start guessing Pokemon, and get a high score!
-
 This is my fully responsive portfolio, also known as, the side project that is never complete.
 
 [Click here](https://www.patricksnowden.com) to visit my portfolio
